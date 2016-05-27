@@ -1,13 +1,11 @@
 # Summary
 
-* [L'Évolution pédagogique en France](README.md)
-## [Introduction](introduction/README.md), par Maurice Halbwachs (1938)
-## Première partie[**Des origines à la renaissance**](#901178895030170-partie_1)
+* [Introduction](introduction/README.md), par Maurice Halbwachs (1938)
+* [Première partie - Des origines à la renaissance](part1/README.md)
+  * [Chapitre I. - L'histoire de l'enseignement secondaire en France](part1/chapter1/README.md). Intérêt pédagogique de la question
+  * [Chapitre II. - L'Église primitive et l'enseignement](part1/chapter2/README.md)
 
-Chapitre I. - [L'histoire de l'enseignement secondaire en France](#901178895030170-partie_1_chap_01). Intérêt pédagogique de la question
-
-Chapitre II. - [L'Église primitive et l'enseignement](#901178895030170-partie_1_chap_02)
-
+<!--
 Chapitre III. - [L'Église primitive et l'enseignement (fin).](#901178895030170-partie_1_chap_03) - Les écoles monacales jusqu'à la Renaissance carolingienne
 
 Chapitre IV. - [La Renaissance carolingienne](#901178895030170-partie_1_chap_04)
@@ -62,4 +60,4 @@ Chapitre XI. Les variations du plan d'études au XIXe siècle. Définition de l'
 
 Chapitre XII. - Conclusion. - L'enseignement de l'homme
 
-Chapitre XIII. - Conclusion (suite et fin). - L'enseignement de la nature : les science. - La culture logique par les langues
+Chapitre XIII. - Conclusion (suite et fin). - L'enseignement de la nature : les science. - La culture logique par les langues -->
