@@ -1,2 +1,0 @@
-| Voici la liste des études, articles, cours faits par Durkheim sur divers sujets de pédagogie, publiés ou restés manuscrits, et que nous avons trouvés, entièrement rédigés, dans ses papiers. M. Paul Fauconnet en a parlé, dans l'introduction de 33 pages, intitulée _: L'œuvre pédagogique de Durkheim,_ qu'il a mise en tête d'Éducation et sociologie, Paris, Alcan, 1922, réimpression des seules études pédagogiques que Durkheim ait publiées lui-même (les articles Éducation et Pédagogie, et deux leçons d'ouverture à la Sorbonne). |
-| --- |
