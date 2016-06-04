@@ -17,17 +17,16 @@
   * [Chapitre XIII. - La dialectique et la dispute. - La discipline à la Faculté des arts](partie1/chapitre13/README.md)
   * [Chapitre XIV. - Conclusion sur l'Université. - La Renaissance](partie1/chapitre14/README.md)
 * [Deuxième partie : De la renaissance à nos jours](partie2/README.md)
-  * Chapitre I. - La Renaissance. - Rabelais, ou le courant encyclopédique
-  * Chapitre II. - La Renaissance (suite). - Le courant humaniste. Érasme
-  * Chapitre III. - La pédagogie du XVIe siècle. - Comparaison des deux courants, humaniste et érudit
-  * Chapitre IV. - La pédagogie de la Renaissance (Conclusion)
-  * Chapitre V. - Les Jésuites
-  * Chapitre VI. - Les Jésuites (suite). - L'organisation extérieure. - L'enseignement
-  * Chapitre VII. - Le système des Jésuites et celui de l'Université
-  * Chapitre VIII. - Conclusion sur la culture classique
-  * Chapitre IX. - La pédagogie réaliste. Les origines. - Comenius. - Roland. - La Révolution
-  * Chapitre X. - La Révolution. - Les Écoles centrales
-  ¨Chapitre X. - La Révolution. - Les Écoles centrales
-  * Chapitre XI. Les variations du plan d'études au XIXe siècle. Définition de l'enseignement secondaire
-  * Chapitre XII. - Conclusion. - L'enseignement de l'homme
-  * Chapitre XIII. - Conclusion (suite et fin). - L'enseignement de la nature : les science. - La culture logique par les langues
+  * [Chapitre I. - La Renaissance. - Rabelais, ou le courant encyclopédique](partie2/chapitre1/README.md)
+  * [Chapitre II. - La Renaissance (suite). - Le courant humaniste. Érasme](partie2/chapitre2/README.md)
+  * [Chapitre III. - La pédagogie du XVIe siècle. - Comparaison des deux courants, humaniste et érudit](partie2/chapitre3/README.md)
+  * [Chapitre IV. - La pédagogie de la Renaissance (Conclusion)](partie2/chapitre4/README.md)
+  * [Chapitre V. - Les Jésuites](partie2/chapitre5/README.md)
+  * [Chapitre VI. - Les Jésuites (suite). - L'organisation extérieure. - L'enseignement](partie2/chapitre6/README.md)
+  * [Chapitre VII. - Le système des Jésuites et celui de l'Université](partie2/chapitre7/README.md)
+  * [Chapitre VIII. - Conclusion sur la culture classique](partie2/chapitre8/README.md)
+  * [Chapitre IX. - La pédagogie réaliste. Les origines. - Comenius. - Roland. - La Révolution](partie2/chapitre9/README.md)
+  * [Chapitre X. - La Révolution. - Les Écoles centrales](partie2/chapitre10/README.md)
+  * [Chapitre XI. Les variations du plan d'études au XIXe siècle. Définition de l'enseignement secondaire](partie2/chapitre11/README.md)
+  * [Chapitre XII. - Conclusion. - L'enseignement de l'homme](partie2/chapitre12/README.md)
+  * [Chapitre XIII. - Conclusion (suite et fin). - L'enseignement de la nature : les science. - La culture logique par les langues](partie2/chapitre13/README.md)
