@@ -1,6 +1,6 @@
 ### Chapitre I : L'histoire de l'enseignement secondaire en France
 
-Intérêt pédagogique de la question
+*Intérêt pédagogique de la question*
 
 Nous allons étudier cette année un sujet qui me tente depuis bien longtemps. Alors même que je n'étais pas, comme aujourd'hui, chargé d'un enseignement exclusivement pédagogique, l'idée de rechercher comment s'était constitué et développé notre enseignement secondaire me séduisait déjà, tant cette étude me paraît avoir un intérêt général, et si jamais le projet ne fut mis à exécution, c'est à la fois que d'autres préoccupations m'en détournaient et que j'en sentais les grandes difficultés. Si aujourd'hui je me décide à tenter l'entreprise, ce n'est pas seulement parce que je m'y sens mieux préparé, mais c'est aussi et surtout parce que les circonstances me paraissent l'imposer ; c'est qu'elle répond, je crois, à un besoin actuel et urgent.
 
