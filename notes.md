@@ -20,3 +20,11 @@
 > Écoles cathédrales, écoles claustrales, voilà le genre bien humble et bien modeste d'où est sorti tout notre système d'enseignement. Écoles élémentaires, Universités, collèges, tout nous est venu de là ; et voilà pourquoi c'est de là qu'il fallait partir.
 
 > Dès l'origine, l'école portait en elle le germe de cette grande lutte entre le sacré et le profane, le laïque et le religieux, dont nous aurons à retracer les histoires.
+
+## Chapitre 3
+
+> Le christianisme, au contraire, eut très vite le sentiment que, sous cet état particulier de l'intelligence et de la sensibilité, il y a en chacun de nous un état profond d'où les premiers dérivent et où ils trouvent leur unité ; et que c'est cet état profond qu'il faut atteindre si l'on veut vraiment faire œuvre d'éducateur, exercer une action durable. Il eut le sentiment que former un homme, ce n'est pas orner son esprit de certaines idées ni lui faire contracter certaines habitudes particulières, c'est créer chez lui une disposition générale de l'esprit et de la volonté qui lui fasse voir les choses en général sous un jour déterminé.
+
+> Le christianisme consiste essentiellement dans une certaine attitude de l'âme, dans un certain _habitus_ de notre être moral. Susciter chez l'enfant cette attitude, tel sera donc le but essentiel de l'éducation.
+
+> Mais on peut dire que c'est à ce moment que l'École, au sens propre du mot, apparut. Car une école, ce n'est pas seulement un local où un maître enseigne ; c'est un être moral, un milieu moral, imprégné de certaines idées, de certains sentiments, un milieu qui enveloppe le maître aussi bien que les élèves.
