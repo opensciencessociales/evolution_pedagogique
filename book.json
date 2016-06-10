@@ -16,8 +16,8 @@
     "links": {
       "sidebar": {
         "OpenSciencesSociales": "http://opensciencessociales.github.io/",
-        "PDF": "../evolution_pedagogique.pdf",
-        "ePub": "../evolution_pedagogique.epub"
+        "pdf": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.pdf",
+        "ePub": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.epub"
       }
     }
 }
