@@ -28,3 +28,9 @@
 > Le christianisme consiste essentiellement dans une certaine attitude de l'âme, dans un certain _habitus_ de notre être moral. Susciter chez l'enfant cette attitude, tel sera donc le but essentiel de l'éducation.
 
 > Mais on peut dire que c'est à ce moment que l'École, au sens propre du mot, apparut. Car une école, ce n'est pas seulement un local où un maître enseigne ; c'est un être moral, un milieu moral, imprégné de certaines idées, de certains sentiments, un milieu qui enveloppe le maître aussi bien que les élèves.
+
+## Chapitre 4
+
+> Monnier a confronté des passages entiers des oeuvres didactiques d'Alcuin avec les parties correspondantes du _De originibus_, l'identité est très souvent littérale. On avait si peu le sentiment de ce que c'est que l'originalité que ces plagiats ne soulevaient aucun scrupule. On voyait dans ces ouvrages comme un fonds de sagesse commune, comme un trésor collectif qui n'était la propriété de personne et que tout le monde pouvait librement utiliser.
+
+école du Palais = école palatine
