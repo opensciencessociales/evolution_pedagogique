@@ -33,4 +33,12 @@
 
 > Monnier a confronté des passages entiers des oeuvres didactiques d'Alcuin avec les parties correspondantes du _De originibus_, l'identité est très souvent littérale. On avait si peu le sentiment de ce que c'est que l'originalité que ces plagiats ne soulevaient aucun scrupule. On voyait dans ces ouvrages comme un fonds de sagesse commune, comme un trésor collectif qui n'était la propriété de personne et que tout le monde pouvait librement utiliser.
 
-école du Palais = école palatine
+
+## Vocabulaire
+
+chapitre6 : De là un véritable prurit d'activité qui travaille alors toute l'Europe, et dont les croisades sont les plus éclatantes manifestations.
+
+chapitre7:
+Ce maître portait le nom de _magister_, _magister scolarum_, _caput scolae_ ou, plus brièvement, _scolasticus_, que l'on traduit d'ordinaire par écolâtre. L'écolâtre commença par n'avoir d'autre autorité que celle que lui déléguait l'évêque.
+
+Déjà, vers 1210, la société des maîtres acquiert le droit de se choisir un chef qui la représente, qui agisse en son nom, par l'intermédiaire duquel elle pût ester en justice.
