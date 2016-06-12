@@ -16,8 +16,19 @@
     "links": {
       "sidebar": {
         "OpenSciencesSociales": "http://opensciencessociales.github.io/",
-        "pdf": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.pdf",
-        "ePub": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.epub"
+        ".pdf": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.pdf",
+        ".ePub": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.epub"
       }
-    }
+    },
+    "pdf": {
+      "pageNumbers": true,
+      "fontSize": 12,
+      "paperSize": "a4",
+      "margin": {
+              "right": 62,
+              "left": 62,
+              "top": 36,
+              "bottom": 36
+          }
+      }
 }
