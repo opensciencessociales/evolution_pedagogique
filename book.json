@@ -2,7 +2,7 @@
     "title": "L'Évolution pédagogique en France",
     "author": "Émile Durkheim",
     "language": "fr",
-    "plugins": ["search", "fontsettings", "-sharing", "-highlight", "github"],
+    "plugins": ["search", "fontsettings", "-sharing", "-highlight", "github", "katex"],
     "pluginsConfig": {
       "fontsettings": {
         "theme": "white",
@@ -16,8 +16,8 @@
     "links": {
       "sidebar": {
         "OpenSciencesSociales": "http://opensciencessociales.github.io/",
-        ".pdf": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.pdf",
-        ".ePub": "https://github.com/opensciencessociales/evolution_pedagogique/evolution_pedagogique.epub"
+        "pdf": "http://opensciencessociales.github.io/evolution_pedagogique/evolution_pedagogique.pdf",
+        "ePub": "http://opensciencessociales.github.io/evolution_pedagogique/evolution_pedagogique.epub"
       }
     },
     "pdf": {
