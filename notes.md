@@ -94,6 +94,8 @@
 
 > Un étudiant du Moyen Age, qui reviendrait parmi nous, en entendant parler d'universités, de facultés, de collèges, de baccalauréat, de licence, de doctorat, de programme d'études, de leçons ordinaires et de leçons extraordinaires, pourrait croire que rien n'est changé, sauf que des mots français ont pris la place des mots latins d'autrefois. C'est seulement en entrant dans nos amphithéâtres ou dans nos classes qu'il s'apercevrait des changement survenus. Il verrait alors que la vie scolaire s'est transformée. Mais elle continue à couler dans le lit que le Moyen Age lui avait creusé.
 
+> Les hommes engagés dans l'action sont les moins bien placés pour apercevoir les causes qui les font agir, et la manière dont ils se représentent les mouvements sociaux qui les entraînent doit être tenue pour suspecte, bien loin d'avoir droit à un crédit particulier.
+
 ## Vocabulaire
 
 chapitre6 : De là un véritable prurit d'activité qui travaille alors toute l'Europe, et dont les croisades sont les plus éclatantes manifestations.
@@ -113,8 +115,6 @@ Chapitre9
 
  Après Navarre, c'est Harcourt, dont le plan remonte, il est vrai, à 1280, mais qui ne fut ouvert, en réalité, qu'en 1311\. Navarre et Harcourt peuvent être regardés comme les principaux prototypes de cette sorte d'établissements qui, à partir du XIVe siècle, vont en se multipliant.
 
-Problème du grec chapitre11, voir Mathjax
-
 chapitre12
 
 Mais, sous une forme ou sous l'autre, le but de l'enseignement était le même ; il s'agissait avant tout de dresser les élèves à la pratique de la dialectique. Dans le premier cas, on les mettait en face de la pensée d'un grand maître et on leur en expliquait la dialectique interne ; c'est pour cela qu'on démontait les raisonnements, pour ainsi dire, qu'on les décomposait en leurs éléments les plus simples ; et, afin que la contexture logique fût plus apparente, on mettait toute l'argumentation en forme de syllogisme.
@@ -126,3 +126,8 @@ D'autres fois, le problème est posé en termes tellement amphigouriques et siby
 On peut ne s'en servir que pour embarrasser l'adversaire par des arguments captieux, qui ne sont plausibles qu'en apparence.
 
 Il y eut surtout un collège où l'usage du fouet paraît avoir reçu un développement tout à fait exorbitant : c'est ce collège de Montaigu dont Rabelais, Montaigne, Érasme qui y fut élève, Vivès nous parlent avec horreur et indignation. Sur ce point, tous les témoignages sont d'accord.
+
+Chapitre 14
+> Les villes s'étaient multipliées et étaient devenues plus populeuses.
+
+> Comme l'enfant qui n'a que juste la quantité de vie nécessaire pour végéter difficultueusement, les peuples d'Europe n'avaient encore que juste les forces nécessaires pour faire face aux nécessités les plus immédiates et les plus urgentes de leur existence.
