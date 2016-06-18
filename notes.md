@@ -131,3 +131,9 @@ Chapitre 14
 > Les villes s'étaient multipliées et étaient devenues plus populeuses.
 
 > Comme l'enfant qui n'a que juste la quantité de vie nécessaire pour végéter difficultueusement, les peuples d'Europe n'avaient encore que juste les forces nécessaires pour faire face aux nécessités les plus immédiates et les plus urgentes de leur existence.
+
+Partie2 Chapitre 1
+
+> Au-delà de la vie médiocre, étriquée, coupassée et artificielle que traînent la généralité des hommes, Rabelais en conçoit une autre, où toutes les forces de notre nature seraient utilisées sans exclusion en même temps que portées à un degré de développement dont l'humanité ne se soupçonne pas capable, et c'est cette vie-là qui lui paraît être la vie véritable.
+
+> Aucun des _acquêts_ de la civilisation ne doit lui rester étranger.
