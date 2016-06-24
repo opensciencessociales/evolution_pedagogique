@@ -144,6 +144,26 @@
 
 > Le XVIe siècle est donc une époque de crise pédagogique et morale. Sous l'influence des changements survenus dans l'organisation économique et sociale, une éducation nouvelle est devenue nécessaire. Mais, cette éducation, les penseurs du temps ne la conçoivent que sous la forme d'une éducation aristocratique et, directement ou indirectement, esthétique, dont nous venons de voir tous les dangers. Bien qu'une éducation scientifique, telle que se la représente Rabelais, fût certainement supérieure à l'éducation purement littéraire recommandée par Érasme, cependant, elle aussi avait le tort grave de rester étrangère à la vie sérieuse, et de n'occuper les esprits qu'à un noble jeu.
 
+### Chapitre 5
+
+> Mais ils [les Jésuites] eurent tôt fait de comprendre que, pour arriver à leur but, ce n'était pas assez de prêcher, de confesser, de catéchiser, mais que le véritable instrument de la domination des âmes, c'était l'éducation de la jeunesse.
+
+### Chapitre 6
+
+> C'était une sorte d'axiome qu'une civilisation n'acquiert de valeur éducative qu'à condition de s'être un peu éloignée dans le temps et d'avoir pris, à quelque degré, un caractère archaïque. Le présent était tenu en suspicion ; l'éducateur devait faire effort pour en détourner les regards des enfants ; on admettait implicitement que la réalité présente est plus laide, plus médiocre, d'un plus mauvais contact par cela seul qu'elle est présente, et que l'humanité s'idéalise à mesure qu'elle recule dans le passé.
+
+> C'est chez les Jésuites qu'a pris naissance ce système pédagogique qui fait du devoir écrit le type du devoir scolaire, système dont l'Université a hérité et qui s'est perpétué jusqu'à des temps récents.
+
+> Toutefois, il y avait un genre littéraire qui jouissait chez eux d'une véritable prééminence : c'était le genre oratoire. L'éloquence était l'art suprême dont la conquête devait couronner les études, et c'est pourquoi la rhétorique était le couronnement de la vie scolaire.
+
+> Nous pouvons maintenant mieux comprendre d'où vient que les Jésuites, et peut-être, à un moindre degré, tant d'éducateurs, tendent à attribuer au passé et au passé lointain une valeur éducative plus haute qu'au présent. C'est que le passé, tant du moins que les sciences historiques ne sont pas assez avancées pour lui donner une netteté, une détermination presque égale à celle du présent, le passé, parce que nous le voyons de loin, nous apparaît naturellement sous des formes flottantes, indécises, mouvantes, et que nous pouvons par suite le déterminer davantage à notre volonté. Il constitue une matière plus malléable, plus plastique, que nous pouvons même transformer et présenter comme il nous convient. Il nous est donc plus facile de la tourner dans un sens éducatif.
+
+> Ces hommes, ces choses d'autrefois, sans nous rendre compte que nous nous illusionnons nous-mêmes, nous les embellissons pour en faire des modèles que nous puissions offrir à l'imitation de la jeunesse. Le présent, parce qu'il est sous nos yeux, s'impose à nous et ne se prête pas à ces altérations ; nous ne pouvons guère le voir autrement qu'il n'est, avec ses laideurs, ses médiocrités, ses vices et ses défauts ; et c'est pour cela qu'il ne nous paraît pas pouvoir aussi bien servir à des fins pédagogiques.
+
+### Chapitre 7
+
+> La culture que donnaient les Jésuites était extraordinairement intensive et forcée. On sent comme un immense effort pour porter presque violemment les esprits à une sorte de précocité artificielle et apparente. De là, cette multitude de devoirs écrits, cette obligation pour l'élève de tendre sans cesse les ressorts de son activité, de produire prématurément et d'une manière inconsidérée. De là, ces innombrables exercices de style, destinés à le rompre à tous les secrets des langues anciennes. Il y avait dans l'allure générale de l'enseignement universitaire quelque chose de moins hâtif, de moins pressant, de moins vertigineux. On tendait, en somme, vers la même fin, même pour l'atteindre on suivait sensiblement la même route, mais on la suivait d'un pas plus timide et plus ralenti.
+
 ## Vocabulaire
 
 chapitre6 : De là un véritable prurit d'activité qui travaille alors toute l'Europe, et dont les croisades sont les plus éclatantes manifestations.
@@ -185,3 +205,13 @@ Partie2 Chapitre 1
 > Au-delà de la vie médiocre, étriquée, coupassée et artificielle que traînent la généralité des hommes, Rabelais en conçoit une autre, où toutes les forces de notre nature seraient utilisées sans exclusion en même temps que portées à un degré de développement dont l'humanité ne se soupçonne pas capable, et c'est cette vie-là qui lui paraît être la vie véritable.
 
 > Aucun des _acquêts_ de la civilisation ne doit lui rester étranger.
+
+
+Chapitre 7
+
+> Ainsi une richesse infinie de procédés tenait l'amour-propre des élèves dans un état de perpétuel éréthisme.
+
+## Typologie
+
+- Problème des espaces fines insécables (non-breaking spaces) : essayer `\ ` ([voir](https://github.com/gettalong/kramdown/issues/159))
+- Voir [kramdown](kramdown.gettalong.org/syntax.html)
