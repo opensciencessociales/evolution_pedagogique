@@ -164,6 +164,8 @@
 
 > La culture que donnaient les Jésuites était extraordinairement intensive et forcée. On sent comme un immense effort pour porter presque violemment les esprits à une sorte de précocité artificielle et apparente. De là, cette multitude de devoirs écrits, cette obligation pour l'élève de tendre sans cesse les ressorts de son activité, de produire prématurément et d'une manière inconsidérée. De là, ces innombrables exercices de style, destinés à le rompre à tous les secrets des langues anciennes. Il y avait dans l'allure générale de l'enseignement universitaire quelque chose de moins hâtif, de moins pressant, de moins vertigineux. On tendait, en somme, vers la même fin, même pour l'atteindre on suivait sensiblement la même route, mais on la suivait d'un pas plus timide et plus ralenti.
 
+> L'état de concurrence perpétuelle dans lequel vivaient les élèves les incitait à tendre tous les ressorts de leur intelligence et de leur volonté, et leur en faisait même une nécessité.
+
 ## Vocabulaire
 
 chapitre6 : De là un véritable prurit d'activité qui travaille alors toute l'Europe, et dont les croisades sont les plus éclatantes manifestations.
@@ -211,7 +213,13 @@ Chapitre 7
 
 > Ainsi une richesse infinie de procédés tenait l'amour-propre des élèves dans un état de perpétuel éréthisme.
 
+
+> Au contraire, à la Renaissance, l'individu commence à prendre conscience de soi ; ce n'est plus, du moins dans les régions éclairées, une simple fraction aliquote du tout, c'est déjà un tout en un sens, c'est une personne qui a sa physionomie, qui a et qui éprouve tout au moins le besoin de se faire ses manières propres de penser et de sentir.
+
 ## Typologie
 
 - Problème des espaces fines insécables (non-breaking spaces) : essayer `\ ` ([voir](https://github.com/gettalong/kramdown/issues/159))
 - Voir [kramdown](kramdown.gettalong.org/syntax.html)
+
+Chapitre8
+Ligne 41
