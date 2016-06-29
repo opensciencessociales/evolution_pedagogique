@@ -166,6 +166,16 @@
 
 > L'état de concurrence perpétuelle dans lequel vivaient les élèves les incitait à tendre tous les ressorts de leur intelligence et de leur volonté, et leur en faisait même une nécessité.
 
+### Chapitre 8
+
+> Mais ce trait de caractère n'a pas seulement affecté notre vie littéraire ; tout notre tempérament intellectuel et moral en porte la marque.
+
+> Et d'abord, c'est manifestement de là que vient notre cosmopolitisme constitutionnel. Quand une société est ainsi dressée à se représenter l'homme dégagé de toutes les contingences nationales et historiques, dans ce qu'il a de plus général et de plus abstrait, elle ne peut s'attacher qu'à un idéal qui lui paraisse valable pour le genre humain tout entier. De ce point de vue, par conséquent, le Français ne peut, sans contredire sa mentalité, se poser les problèmes moraux ou politiques dans des termes étroitement nationaux. Quand il légifère, c'est pour l'humanité qu'il croit légiférer, puisque l'humanité est la seule réalité véritable, et que les formes superficielles dans lesquelles elle s'enveloppe et qui la particularisent aux différents moments de l'histoire ne méritent pas plus de retenir l'attention du philosophe et de l'homme d'État que du poète.
+
+> Or, l'esprit prend la forme des choses qu'il pense. Pour qu'il s'élargisse, il faut qu'il soit en face d'une ample et riche matière et qu'il sente le besoin de s'en saisir. Il se rétrécit, au contraire, et s'amenuise si une longue accoutumance l'a habitué à ne se représenter que des choses élémentaires, simples, exiguës, qui ne demandent pas grand effort pour être appréhendées. C'est ce qui fait qu'une culture exclusivement mathématique est si dangereuse pour l'esprit qu'elle rend impropre à penser autre chose que des abstractions.
+
+> Quand on est fortement pénétré de cette conviction que les choses sont simples ou réductibles à des éléments simples, on croit aussi que tout est clair ou peut être traduit en des termes clairs. Alors la raison est à l'abri des coups de désespoir, et se refuse à admettre qu'il y ait rien dans le réel d'irréductiblement obscur et inintelligible, sur quoi, par conséquent, elle n'ait pas de prise. Mais ce rationalisme superbe, ce rationalisme qui ne s'appuie que sur une illusion - l'illusion que le complexe n'est qu'une apparence - ce rationalisme n'est que la forme inférieure du rationalisme.
+
 ## Vocabulaire
 
 chapitre6 : De là un véritable prurit d'activité qui travaille alors toute l'Europe, et dont les croisades sont les plus éclatantes manifestations.
@@ -223,3 +233,5 @@ Chapitre 7
 
 Chapitre8
 Ligne 41
+
+Problème de numérotation des chapitres dans la partie II. La version Gallica contient deux chapitre 6
