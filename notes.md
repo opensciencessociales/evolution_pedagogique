@@ -176,57 +176,14 @@
 
 > Quand on est fortement pénétré de cette conviction que les choses sont simples ou réductibles à des éléments simples, on croit aussi que tout est clair ou peut être traduit en des termes clairs. Alors la raison est à l'abri des coups de désespoir, et se refuse à admettre qu'il y ait rien dans le réel d'irréductiblement obscur et inintelligible, sur quoi, par conséquent, elle n'ait pas de prise. Mais ce rationalisme superbe, ce rationalisme qui ne s'appuie que sur une illusion - l'illusion que le complexe n'est qu'une apparence - ce rationalisme n'est que la forme inférieure du rationalisme.
 
-## Vocabulaire
+### Chapitre 9
 
-chapitre6 : De là un véritable prurit d'activité qui travaille alors toute l'Europe, et dont les croisades sont les plus éclatantes manifestations.
+> Il vint un moment où ce qu'on pourrait appeler les besoins purement laïques et amoraux de la société furent trop vivement ressentis pour qu'on ne comprît pas la nécessité de mettre par avance l'enfant en état d'y satisfaire un jour. Ainsi un nouveau critère se fit reconnaître, par rapport auquel la valeur pédagogique des différentes sortes de connaissances fut désormais estimée. Désormais, on mesura l'intérêt qu'il convenait de leur attribuer en prenant pour point de repère, non plus seulement les fins morales les plus hautes que puissent poursuivre les hommes, mais aussi les nécessités vitales de la société, les conditions qui sont indispensables à son bon fonctionnement.
 
-chapitre7:
-Ce maître portait le nom de _magister_, _magister scolarum_, _caput scolae_ ou, plus brièvement, _scolasticus_, que l'on traduit d'ordinaire par écolâtre. L'écolâtre commença par n'avoir d'autre autorité que celle que lui déléguait l'évêque.
-
-Déjà, vers 1210, la société des maîtres acquiert le droit de se choisir un chef qui la représente, qui agisse en son nom, par l'intermédiaire duquel elle pût ester en justice.
-
-Chapite 8 :
-
-Mais, Denifle a définitivement démontré que cette conception est controuvée par les faits.
-
-Chapitre9
-
- C'est d'abord le collège de la Sorbonne, constitué vers 1257 pour seize étudiants en théologie. C'est ensuite et surtout le collège de Navarre, qui peut être considéré comme le premier grand collège de Paris. Il fut fondé pour recevoir vingt étudiants de théologie, vingt étudiants ès arts et enfin vingt écoliers de grammaire.
-
- Après Navarre, c'est Harcourt, dont le plan remonte, il est vrai, à 1280, mais qui ne fut ouvert, en réalité, qu'en 1311\. Navarre et Harcourt peuvent être regardés comme les principaux prototypes de cette sorte d'établissements qui, à partir du XIVe siècle, vont en se multipliant.
-
-chapitre12
-
-Mais, sous une forme ou sous l'autre, le but de l'enseignement était le même ; il s'agissait avant tout de dresser les élèves à la pratique de la dialectique. Dans le premier cas, on les mettait en face de la pensée d'un grand maître et on leur en expliquait la dialectique interne ; c'est pour cela qu'on démontait les raisonnements, pour ainsi dire, qu'on les décomposait en leurs éléments les plus simples ; et, afin que la contexture logique fût plus apparente, on mettait toute l'argumentation en forme de syllogisme.
-
-guerre des Armagnacs
-
-D'autres fois, le problème est posé en termes tellement amphigouriques et sibyllins que nous avons grand mal à comprendre.
-
-On peut ne s'en servir que pour embarrasser l'adversaire par des arguments captieux, qui ne sont plausibles qu'en apparence.
-
-Il y eut surtout un collège où l'usage du fouet paraît avoir reçu un développement tout à fait exorbitant : c'est ce collège de Montaigu dont Rabelais, Montaigne, Érasme qui y fut élève, Vivès nous parlent avec horreur et indignation. Sur ce point, tous les témoignages sont d'accord.
-
-Chapitre 14
-> Les villes s'étaient multipliées et étaient devenues plus populeuses.
-
-> Comme l'enfant qui n'a que juste la quantité de vie nécessaire pour végéter difficultueusement, les peuples d'Europe n'avaient encore que juste les forces nécessaires pour faire face aux nécessités les plus immédiates et les plus urgentes de leur existence.
-
-Partie2 Chapitre 1
-
-> Au-delà de la vie médiocre, étriquée, coupassée et artificielle que traînent la généralité des hommes, Rabelais en conçoit une autre, où toutes les forces de notre nature seraient utilisées sans exclusion en même temps que portées à un degré de développement dont l'humanité ne se soupçonne pas capable, et c'est cette vie-là qui lui paraît être la vie véritable.
-
-> Aucun des _acquêts_ de la civilisation ne doit lui rester étranger.
+> « J'accorderais volontiers aux Italiens et aux Français, à Léon X et à François 1er, l'honneur d'avoir restauré les belles-lettres, _restaurationem cultiorum litterarum_, pourvu qu'ils reconnaissent à leur tour que les sciences du réel (_die realsten Wissenschaften_), toutes ou presque toutes, viennent d'Allemagne. » Leibniz
 
 
-Chapitre 7
-
-> Ainsi une richesse infinie de procédés tenait l'amour-propre des élèves dans un état de perpétuel éréthisme.
-
-
-> Au contraire, à la Renaissance, l'individu commence à prendre conscience de soi ; ce n'est plus, du moins dans les régions éclairées, une simple fraction aliquote du tout, c'est déjà un tout en un sens, c'est une personne qui a sa physionomie, qui a et qui éprouve tout au moins le besoin de se faire ses manières propres de penser et de sentir.
-
-## Typologie
+## Typographie
 
 - Problème des espaces fines insécables (non-breaking spaces) : essayer `\ ` ([voir](https://github.com/gettalong/kramdown/issues/159))
 - Voir [kramdown](kramdown.gettalong.org/syntax.html)
@@ -235,3 +192,5 @@ Chapitre8
 Ligne 41
 
 Problème de numérotation des chapitres dans la partie II. La version Gallica contient deux chapitre 6
+
+Chapitre 9 ligne 24
