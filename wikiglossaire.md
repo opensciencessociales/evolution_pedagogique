@@ -119,3 +119,29 @@
 * _Essai d'éducation nationale_
 
 > « L'éducation, dit **La Chalotais**, dans son livre : ***Essai d'éducation nationale***, devant préparer des citoyens à l'État, il est évident qu'elle doit être relative à sa constitution et à ses lois ; elle serait foncièrement mauvaise si elle y était contraire. »
+
+### Chapitre 10
+
+* palingénésie :
+
+> A ce moment où l'on comptait tant de savants illustres dans les différentes sciences de la nature, où les grandes découvertes se multipliaient, où, par suite, les sciences inspiraient un tel enthousiasme qu'on attendait d'elles une **palingénésie** de l'homme et des sociétés, elles n'avaient cependant pas réussi à se faire dans les collèges une place sensiblement plus considérable qu'autrefois.
+
+* loi de Mariotte
+
+* Hippeau, _L'instruction publique en France pendant la Révolution_
+
+* in-quarto
+
+> Les travaux du Comité de l'Instruction publique, nommé par la Convention, sont en cours de publication et remplissent déjà de gros **in-quarto**.
+
+* patronnée
+
+> Déjà Condorcet l'avait **patronnée** auprès de l'Assemblée législative.
+
+* Académie des Jeux floraux
+
+> Et en note il nous apprend que l'idée ne lui est pas personnelle ; il la signale notamment dans un _Discours_ couronné par l'Académie des Jeux floraux, et dont l'auteur était professeur à un collège de Toulouse.
+
+* assiette morale
+
+> Tout le monde reconnaît combien était défectueuse l'**assiette morale** de ces anciennes classes de mathématiques élémentaires, précisément parce qu'elles manquaient de cette unité, étant formées d'élèves disparates, venus de tous les coins de l'horizon scolaire, rhétorique, mathématiques préparatoires, philosophie, etc.
