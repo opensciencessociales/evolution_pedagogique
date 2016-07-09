@@ -145,3 +145,23 @@
 * assiette morale
 
 > Tout le monde reconnaît combien était défectueuse l'**assiette morale** de ces anciennes classes de mathématiques élémentaires, précisément parce qu'elles manquaient de cette unité, étant formées d'élèves disparates, venus de tous les coins de l'horizon scolaire, rhétorique, mathématiques préparatoires, philosophie, etc.
+
+### Chapitre 11
+
+* [Université de France](https://fr.wikipedia.org/wiki/Universit%C3%A9_de_France)
+
+* [Prytanée français](https://fr.wikipedia.org/wiki/Lyc%C3%A9e_Louis-le-Grand)
+
+### Chapitre 12
+
+* intempérance :
+
+> Et, cependant, il n'y a pas à craindre que cette confiance ne fasse verser les esprits du misonéisme, qui est un mal, dans l'**intempérance** révolutionnaire, qui en est un autre.
+
+### Chapitre 13
+
+* adventice :
+
+> Ainsi l'étude des sciences, loin de constituer dans notre système scolaire une sorte d'élément **adventice** et étranger, loin d'y être dépaysée et d'en troubler l'économie, est en réalité un auxiliaire utile, indispensable de ce vieil enseignement humaniste qui, pendant si longtemps, y a tenu toute la place.
+
+> On commencerait par la lui montrer, au moyen non de résumés compassés, denses et indigestes, mais de plans qui mettraient en évidence les articulations de la pensée ; dans d'autres cas, on l'inviterait à les retrouver de lui-même.

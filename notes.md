@@ -183,14 +183,16 @@
 > « J'accorderais volontiers aux Italiens et aux Français, à Léon X et à François 1er, l'honneur d'avoir restauré les belles-lettres, _restaurationem cultiorum litterarum_, pourvu qu'ils reconnaissent à leur tour que les sciences du réel (_die realsten Wissenschaften_), toutes ou presque toutes, viennent d'Allemagne. » Leibniz
 
 
+### Chapitre 11
+
+> Or, par un singulier revirement, à partir du XIXe siècle, au lendemain de la Révolution, il se noua comme une alliance entre l'humanisme et l'Église. Les représentants du traditionalisme, en matière religieuse aussi bien qu'en matière sociale et politique, virent, à tort ou à raison, dans le vieil enseignement littéraire, le meilleur auxiliaire de ce qui leur paraissait être la saine doctrine, tandis qu'au contraire l'enseignement scientifique leur était suspect. Dès lors, les libéraux de tout ordre et de tout degré furent enclins à épouser la cause contraire.
+
+### Chapitre 13
+
+> Bien loin que les disciplines relatives à l'homme, et celles qui se rapportent aux choses, soient à ce point étrangères l'une à l'autre, en fait elles s'impliquent et concourent au même but, et c'est parce qu'on méconnaît leur unité qu'on a pu ainsi contester la vertu éducative et même moralisatrice de l'enseignement scientifique.
+
+
 ## Typographie
 
 - Problème des espaces fines insécables (non-breaking spaces) : essayer `\ ` ([voir](https://github.com/gettalong/kramdown/issues/159))
 - Voir [kramdown](kramdown.gettalong.org/syntax.html)
-
-Chapitre8
-Ligne 41
-
-Problème de numérotation des chapitres dans la partie II. La version Gallica contient deux chapitre 6
-
-Chapitre 9 ligne 24
