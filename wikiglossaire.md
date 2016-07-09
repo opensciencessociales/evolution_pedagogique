@@ -164,4 +164,6 @@
 
 > Ainsi l'étude des sciences, loin de constituer dans notre système scolaire une sorte d'élément **adventice** et étranger, loin d'y être dépaysée et d'en troubler l'économie, est en réalité un auxiliaire utile, indispensable de ce vieil enseignement humaniste qui, pendant si longtemps, y a tenu toute la place.
 
-> On commencerait par la lui montrer, au moyen non de résumés compassés, denses et indigestes, mais de plans qui mettraient en évidence les articulations de la pensée ; dans d'autres cas, on l'inviterait à les retrouver de lui-même.
+* compassés :
+
+> On commencerait par la lui montrer, au moyen non de résumés **compassés**, denses et indigestes, mais de plans qui mettraient en évidence les articulations de la pensée ; dans d'autres cas, on l'inviterait à les retrouver de lui-même.
